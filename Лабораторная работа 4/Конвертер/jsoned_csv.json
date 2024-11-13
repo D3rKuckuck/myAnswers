@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "William",
+        "Age": 13,
+        "Scores": 5.5,
+        "Pass": true
+    },
+    {
+        "Name": "John",
+        "Age": 15,
+        "Scores": 8.0,
+        "Pass": true
+    },
+    {
+        "Name": "Anna",
+        "Age": 12,
+        "Scores": 10.0,
+        "Pass": true
+    },
+    {
+        "Name": "Paul",
+        "Age": 18,
+        "Scores": 2.0,
+        "Pass": true
+    },
+    {
+        "Name": "Liza",
+        "Age": 14,
+        "Scores": 7.5,
+        "Pass": true
+    },
+    {
+        "Name": "Nadya",
+        "Age": 11,
+        "Scores": 7.0,
+        "Pass": true
+    }
+]
